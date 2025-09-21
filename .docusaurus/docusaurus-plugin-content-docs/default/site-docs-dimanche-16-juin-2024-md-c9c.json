@@ -1,0 +1,24 @@
+{
+  "id": "Dimanche_16_juin_2024",
+  "title": "Dimanche 16 juin 2024",
+  "description": "ENTRÉE",
+  "source": "@site/docs/Dimanche_16_juin_2024.md",
+  "sourceDirName": ".",
+  "slug": "/Dimanche_16_juin_2024",
+  "permalink": "/docs/Dimanche_16_juin_2024",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Dimanche_16_juin_2024.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebars",
+  "previous": {
+    "title": "Programme",
+    "permalink": "/docs/programme"
+  },
+  "next": {
+    "title": "Dimanche 26 mai 2024",
+    "permalink": "/docs/Dimanche_26_mai_2024"
+  }
+}

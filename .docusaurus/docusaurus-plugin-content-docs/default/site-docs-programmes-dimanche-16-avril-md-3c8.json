@@ -1,0 +1,24 @@
+{
+  "id": "programmes/dimanche_16_avril",
+  "title": "ENTREE",
+  "description": "Il n'y a que toi lien",
+  "source": "@site/docs/programmes/dimanche_16_avril.md",
+  "sourceDirName": "programmes",
+  "slug": "/programmes/dimanche_16_avril",
+  "permalink": "/siloe.github.io/build/docs/programmes/dimanche_16_avril",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmes/dimanche_16_avril.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "programmesSidebars",
+  "previous": {
+    "title": "Entrée  (Ré ou Ré#)",
+    "permalink": "/siloe.github.io/build/docs/programmes/dimanche_14"
+  },
+  "next": {
+    "title": "dimanche_16_juillet_2021",
+    "permalink": "/siloe.github.io/build/docs/programmes/dimanche_16_juillet_2021"
+  }
+}

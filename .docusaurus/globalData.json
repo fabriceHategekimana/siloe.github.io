@@ -1,0 +1,120 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/siloe.github.io/build/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/siloe.github.io/build/docs",
+          "mainDocId": "programmes/programme",
+          "docs": [
+            {
+              "id": "chants/Dimanche_7_juillet_2024",
+              "path": "/siloe.github.io/build/docs/chants/Dimanche_7_juillet_2024",
+              "sidebar": "chantsSidebars"
+            },
+            {
+              "id": "events/empty",
+              "path": "/siloe.github.io/build/docs/events/empty",
+              "sidebar": "eventsSidebars"
+            },
+            {
+              "id": "intro",
+              "path": "/siloe.github.io/build/docs/intro"
+            },
+            {
+              "id": "programmes/dimanche_14",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_14",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_16_avril",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_16_avril",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_16_juillet_2021",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_16_juillet_2021",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_2_juillet_2023",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_2_juillet_2023",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_21_mai_2022",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_21_mai_2022",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_23_juillet_2023",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_23_juillet_2023",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_25_juin_2023",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_25_juin_2023",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_27_aout_2023",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_27_aout_2023",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_7_mai_2023",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_7_mai_2023",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/dimanche_9_juillet_2023",
+              "path": "/siloe.github.io/build/docs/programmes/dimanche_9_juillet_2023",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "programmes/programme",
+              "path": "/siloe.github.io/build/docs/programmes/programme",
+              "sidebar": "programmesSidebars"
+            },
+            {
+              "id": "repetitions/Dimanche_1er_septembre_2024",
+              "path": "/siloe.github.io/build/docs/repetitions/Dimanche_1er_septembre_2024",
+              "sidebar": "repetitionsSidebars"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "programmesSidebars": {
+              "link": {
+                "path": "/siloe.github.io/build/docs/programmes/programme",
+                "label": "programmes/programme"
+              }
+            },
+            "repetitionsSidebars": {
+              "link": {
+                "path": "/siloe.github.io/build/docs/repetitions/Dimanche_1er_septembre_2024",
+                "label": "repetitions/Dimanche_1er_septembre_2024"
+              }
+            },
+            "chantsSidebars": {
+              "link": {
+                "path": "/siloe.github.io/build/docs/chants/Dimanche_7_juillet_2024",
+                "label": "chants/Dimanche_7_juillet_2024"
+              }
+            },
+            "eventsSidebars": {
+              "link": {
+                "path": "/siloe.github.io/build/docs/events/empty",
+                "label": "events/empty"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

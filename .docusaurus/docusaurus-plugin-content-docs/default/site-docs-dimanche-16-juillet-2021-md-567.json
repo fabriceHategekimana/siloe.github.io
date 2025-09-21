@@ -1,0 +1,24 @@
+{
+  "id": "dimanche_16_juillet_2021",
+  "title": "Dimanche 16 juillet 2021",
+  "description": "ENTREE",
+  "source": "@site/docs/dimanche_16_juillet_2021.md",
+  "sourceDirName": ".",
+  "slug": "/dimanche_16_juillet_2021",
+  "permalink": "/docs/dimanche_16_juillet_2021",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dimanche_16_juillet_2021.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebars",
+  "previous": {
+    "title": "Dimanche 16 février 2025",
+    "permalink": "/docs/dimanche_16_février_2025"
+  },
+  "next": {
+    "title": "Dimanche 21 mai 2022",
+    "permalink": "/docs/dimanche_21_mai_2022"
+  }
+}

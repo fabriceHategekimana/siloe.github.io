@@ -1,0 +1,24 @@
+{
+  "id": "programmes/Dimanche_16_juin_2024",
+  "title": "Dimanche 16 juin 2024",
+  "description": "ENTRÉE",
+  "source": "@site/docs/programmes/Dimanche_16_juin_2024.md",
+  "sourceDirName": "programmes",
+  "slug": "/programmes/Dimanche_16_juin_2024",
+  "permalink": "/site_siloe/docs/programmes/Dimanche_16_juin_2024",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmes/Dimanche_16_juin_2024.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "programmesSidebars",
+  "previous": {
+    "title": "Programme",
+    "permalink": "/site_siloe/docs/programmes/programme"
+  },
+  "next": {
+    "title": "Dimanche 26 mai 2024",
+    "permalink": "/site_siloe/docs/programmes/Dimanche_26_mai_2024"
+  }
+}

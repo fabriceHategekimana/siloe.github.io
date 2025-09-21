@@ -1,0 +1,24 @@
+{
+  "id": "dimanche",
+  "title": "Dimanche 30 Août 2025",
+  "description": "ENTREE",
+  "source": "@site/docs/dimanche.md",
+  "sourceDirName": ".",
+  "slug": "/dimanche",
+  "permalink": "/docs/dimanche",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dimanche.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebars",
+  "previous": {
+    "title": "Dimanche 7 juillet 2024",
+    "permalink": "/docs/Dimanche_7_juillet_2024"
+  },
+  "next": {
+    "title": "Dimanche 14",
+    "permalink": "/docs/dimanche_14"
+  }
+}

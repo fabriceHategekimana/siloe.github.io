@@ -1,0 +1,24 @@
+{
+  "id": "Dimanche_30_avril_2023",
+  "title": "Dimanche 30 avril 2023",
+  "description": "ENTREE",
+  "source": "@site/docs/Dimanche_30_avril_2023.md",
+  "sourceDirName": ".",
+  "slug": "/Dimanche_30_avril_2023",
+  "permalink": "/docs/Dimanche_30_avril_2023",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Dimanche_30_avril_2023.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebars",
+  "previous": {
+    "title": "Dimanche 26 mai 2024",
+    "permalink": "/docs/Dimanche_26_mai_2024"
+  },
+  "next": {
+    "title": "Dimanche 7 juillet 2024",
+    "permalink": "/docs/Dimanche_7_juillet_2024"
+  }
+}

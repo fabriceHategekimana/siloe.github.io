@@ -1,0 +1,24 @@
+{
+  "id": "programmes/Dimanche_7_juillet_2024",
+  "title": "Dimanche 7 juillet 2024",
+  "description": "ENTRÉE",
+  "source": "@site/docs/programmes/Dimanche_7_juillet_2024.md",
+  "sourceDirName": "programmes",
+  "slug": "/programmes/Dimanche_7_juillet_2024",
+  "permalink": "/site_siloe/docs/programmes/Dimanche_7_juillet_2024",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programmes/Dimanche_7_juillet_2024.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "programmesSidebars",
+  "previous": {
+    "title": "Dimanche 30 avril 2023",
+    "permalink": "/site_siloe/docs/programmes/Dimanche_30_avril_2023"
+  },
+  "next": {
+    "title": "Dimanche 30 Août 2025",
+    "permalink": "/site_siloe/docs/programmes/dimanche"
+  }
+}

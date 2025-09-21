@@ -1,0 +1,24 @@
+{
+  "id": "dimanche_2_juillet_2023",
+  "title": "Dimanche 2 juillet 2023",
+  "description": "Même si le monde Ré",
+  "source": "@site/programmes/dimanche_2_juillet_2023.md",
+  "sourceDirName": ".",
+  "slug": "/dimanche_2_juillet_2023",
+  "permalink": "/docs/dimanche_2_juillet_2023",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/programmes/dimanche_2_juillet_2023.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "programmesSidebar",
+  "previous": {
+    "title": "Dimanche 25 juin 2023",
+    "permalink": "/docs/dimanche_25_juin_2023"
+  },
+  "next": {
+    "title": "dimanche_7_mai_2023",
+    "permalink": "/docs/dimanche_7_mai_2023"
+  }
+}

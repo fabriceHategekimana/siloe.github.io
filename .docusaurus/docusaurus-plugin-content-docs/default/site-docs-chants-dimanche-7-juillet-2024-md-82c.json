@@ -1,0 +1,16 @@
+{
+  "id": "chants/Dimanche_7_juillet_2024",
+  "title": "Dimanche 7 juillet 2024",
+  "description": "ENTRÉE",
+  "source": "@site/docs/chants/Dimanche_7_juillet_2024.md",
+  "sourceDirName": "chants",
+  "slug": "/chants/Dimanche_7_juillet_2024",
+  "permalink": "/siloe.github.io/build/docs/chants/Dimanche_7_juillet_2024",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/chants/Dimanche_7_juillet_2024.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "chantsSidebars"
+}
